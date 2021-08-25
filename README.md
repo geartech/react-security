@@ -2,6 +2,6 @@
 
 Modelo de estudo da implementação de segurança do fluxo PKCE - Oauth2 
 
-![plot](./public/pkce-auth2.png)
+![plot](./public/pkce-oauth2.png)
 
 
