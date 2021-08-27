@@ -1,5 +1,5 @@
 {
-  "name": "alganews-admin",
+  "name": "security oauth2 PKCE",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
